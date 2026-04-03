@@ -11,3 +11,6 @@ age = int(input("Enter your age: "))
 
 print("Hello", name) 
 print("You are", age, "years old") 
+
+# Using f-strings (formatted string literals)
+print(f"Welcome {name}, you will be {age + 1} next year!")
