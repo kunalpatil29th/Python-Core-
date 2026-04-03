@@ -35,5 +35,18 @@ a = 5
 a += 2  # a = a + 2 
 print(a)  # 7 
 
+# Identity Operators
+list1 = [1, 2, 3]
+list2 = [1, 2, 3]
+list3 = list1
+
+print(list1 is list3)    # True
+print(list1 is list2)    # False
+print(list1 == list2)   # True
+
+# Membership Operators
+print(1 in list1)       # True
+print(4 not in list1)   # True
+
 
 a = property
