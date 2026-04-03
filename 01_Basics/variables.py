@@ -14,3 +14,15 @@ print(name)
 print(age) 
 print(price) 
 print(is_student) 
+
+# Multiple assignment
+x, y, z = "Orange", "Banana", "Cherry"
+print(x, y, z)
+
+# Global variables
+global_var = "I am global"
+
+def my_func():
+    print(global_var)
+
+my_func()
