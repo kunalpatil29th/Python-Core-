@@ -17,3 +17,13 @@ This folder contains fundamental Python concepts with definitions and examples.
 - `dictionaries.py`: Key-value pairs.
 - `conditionals.py`: if, elif, else statements.
 - `loops.py`: for and while loops.
+
+## 02_Intermediate
+This folder covers intermediate Python topics including functions, OOP, and file handling.
+
+- `functions.py`: Defining and calling functions, default arguments.
+- `lambdas.py`: Anonymous functions and their usage with `filter()`.
+- `file_handling.py`: Reading from and writing to files.
+- `exception_handling.py`: Using try-except-finally for error management.
+- `classes_objects.py`: Basics of Object-Oriented Programming (OOP).
+- `modules_import.py`: Importing and using built-in Python modules.
