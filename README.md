@@ -27,3 +27,12 @@ This folder covers intermediate Python topics including functions, OOP, and file
 - `exception_handling.py`: Using try-except-finally for error management.
 - `classes_objects.py`: Basics of Object-Oriented Programming (OOP).
 - `modules_import.py`: Importing and using built-in Python modules.
+
+## 03_Advanced
+This folder explores advanced Python features like decorators, generators, and context managers.
+
+- `decorators.py`: Enhancing functions without modification.
+- `generators.py`: Memory-efficient iteration using `yield`.
+- `list_comprehensions.py`: Concise syntax for list creation.
+- `context_managers.py`: Managing resources with `with` statements.
+- `args_kwargs.py`: Handling variable numbers of arguments.
