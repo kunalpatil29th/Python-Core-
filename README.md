@@ -36,3 +36,12 @@ This folder explores advanced Python features like decorators, generators, and c
 - `list_comprehensions.py`: Concise syntax for list creation.
 - `context_managers.py`: Managing resources with `with` statements.
 - `args_kwargs.py`: Handling variable numbers of arguments.
+
+## 04_Standard_Library
+This folder explores essential modules from Python's standard library.
+
+- `collections_module.py`: Specialized container datatypes like `Counter` and `namedtuple`.
+- `itertools_module.py`: Tools for efficient iteration and looping.
+- `json_module.py`: Parsing and creating JSON data.
+- `random_module.py`: Generating random numbers and making random selections.
+- `threading_module.py`: Basics of running concurrent operations using threads.
