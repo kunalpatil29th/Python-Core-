@@ -15,7 +15,7 @@ This folder contains fundamental Python concepts with definitions and examples.
 - `lists.py`: Mutable sequences.
 - `tuples.py`: Immutable sequences.
 - `dictionaries.py`: Key-value pairs.
-- `conditionals.py`: if, elif, else statements.
+- `conditionals.py`: if, elif, else statements
 - `loops.py`: for and while loops.
 
 ## 02_Intermediate
