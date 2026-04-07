@@ -45,3 +45,12 @@ This folder explores essential modules from Python's standard library.
 - `json_module.py`: Parsing and creating JSON data.
 - `random_module.py`: Generating random numbers and making random selections.
 - `threading_module.py`: Basics of running concurrent operations using threads.
+
+## 05_Data_Structures_Algorithms
+This folder covers fundamental data structures and common algorithms implemented in Python.
+
+- `linked_list.py`: Implementation of a Singly Linked List.
+- `stack_queue.py`: Stack (LIFO) and Queue (FIFO) basics.
+- `binary_tree.py`: Binary tree structure and inorder traversal.
+- `bubble_sort.py`: Simple comparison-based sorting algorithm.
+- `binary_search.py`: Efficient searching in sorted arrays.
