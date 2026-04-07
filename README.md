@@ -10,7 +10,7 @@ This folder contains fundamental Python concepts with definitions and examples.
 - `type_casting.py`: Converting data types.
 - `operators.py`: Arithmetic, comparison, logical, assignment, identity, and membership operators.
 - `hello_world.py`: Your first Python program.
-- `external_lib.py`: Using external libraries (e.g., `pyjokes`).
+- `external_lib.py`: Using external libraries (e.g., `pyjokes`)
 - `strings.py`: String manipulation.
 - `lists.py`: Mutable sequences.
 - `tuples.py`: Immutable sequences.
