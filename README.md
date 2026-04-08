@@ -54,3 +54,14 @@ This folder covers fundamental data structures and common algorithms implemented
 - `binary_tree.py`: Binary tree structure and inorder traversal.
 - `bubble_sort.py`: Simple comparison-based sorting algorithm.
 - `binary_search.py`: Efficient searching in sorted arrays.
+
+## 06_Projects
+This folder contains simple Python projects that demonstrate practical application of the concepts learned.
+
+- `calculator.py`: A basic arithmetic calculator.
+- `number_guessing.py`: A simple number guessing game with random numbers.
+- `todo_cli.py`: A command-line interface for managing a to-do list.
+- `password_generator.py`: A tool to generate secure, random passwords.
+- `unit_converter.py`: Converts between units like temperature and distance.
+- `rock_paper_scissors.py`: A classic game against the computer.
+- `simple_atm.py`: Simulates basic ATM transactions and balance management.
