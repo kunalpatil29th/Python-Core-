@@ -65,3 +65,15 @@ This folder contains simple Python projects that demonstrate practical applicati
 - `unit_converter.py`: Converts between units like temperature and distance.
 - `rock_paper_scissors.py`: A classic game against the computer.
 - `simple_atm.py`: Simulates basic ATM transactions and balance management.
+
+## 07_Advanced_Projects
+This folder contains more complex Python projects that integrate multiple concepts like dictionaries, regex, and simulated APIs.
+
+- `url_shortener.py`: Logic for shortening URLs using hashing.
+- `expense_tracker.py`: Tracks and summarizes daily expenses.
+- `weather_app_sim.py`: Simulates fetching weather data for cities.
+- `quiz_app.py`: A multiple-choice quiz application.
+- `inventory_management.py`: Track products, stock, and pricing.
+- `contact_book.py`: Simple contact storage and search system.
+- `markdown_to_html.py`: A basic regex-based Markdown to HTML converter.
+- `budget_planner.py`: Helps plan monthly income and expenses.
