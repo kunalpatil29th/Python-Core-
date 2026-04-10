@@ -77,3 +77,14 @@ This folder contains more complex Python projects that integrate multiple concep
 - `contact_book.py`: Simple contact storage and search system.
 - `markdown_to_html.py`: A basic regex-based Markdown to HTML converter.
 - `budget_planner.py`: Helps plan monthly income and expenses.
+
+## 08_Python_Problem_Solving
+This folder contains common programming problems and their solutions in Python.
+
+- `palindrome_check.py`: Checks if a string or number is a palindrome.
+- `factorial.py`: Calculates factorial using recursive and iterative methods.
+- `fibonacci_series.py`: Generates Fibonacci sequence up to n terms.
+- `prime_number.py`: Checks if a number is prime.
+- `armstrong_number.py`: Checks if a number is an Armstrong number.
+- `anagram_check.py`: Checks if two strings are anagrams.
+- `reverse_string.py`: Different ways to reverse a string in Python.
