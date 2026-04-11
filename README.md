@@ -88,3 +88,14 @@ This folder contains common programming problems and their solutions in Python.
 - `armstrong_number.py`: Checks if a number is an Armstrong number.
 - `anagram_check.py`: Checks if two strings are anagrams.
 - `reverse_string.py`: Different ways to reverse a string in Python.
+
+## 09_Competitive_Programming
+This folder contains common competitive programming problems and their solutions in Python.
+
+- `two_sum.py`: Finds indices of two numbers that add up to a target.
+- `valid_parentheses.py`: Checks if a string of brackets is valid.
+- `merge_sorted_lists.py`: Merges two sorted linked lists.
+- `max_subarray.py`: Finds the contiguous subarray with the largest sum.
+- `climbing_stairs.py`: Calculates ways to climb stairs.
+- `best_time_to_buy_sell_stock.py`: Maximize stock profit.
+- `contains_duplicate.py`: Checks if an array contains any duplicates.
