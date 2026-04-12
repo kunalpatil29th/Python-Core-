@@ -99,3 +99,15 @@ This folder contains common competitive programming problems and their solutions
 - `climbing_stairs.py`: Calculates ways to climb stairs.
 - `best_time_to_buy_sell_stock.py`: Maximize stock profit.
 - `contains_duplicate.py`: Checks if an array contains any duplicates.
+
+## 10_Design_Patterns
+This folder covers common software design patterns implemented in Python.
+
+- `singleton.py`: Ensures a class has only one instance.
+- `factory_method.py`: Interface for creating objects in a superclass.
+- `observer_pattern.py`: Subscription mechanism to notify multiple objects.
+- `strategy_pattern.py`: Family of interchangeable algorithms.
+- `adapter_pattern.py`: Allows incompatible interfaces to collaborate.
+- `command_pattern.py`: Encapsulates a request as a standalone object.
+- `template_method.py`: Skeleton of an algorithm in a base class.
+- `facade_pattern.py`: Simplified interface to a complex set of classes.
