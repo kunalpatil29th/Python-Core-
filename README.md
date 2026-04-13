@@ -111,3 +111,25 @@ This folder covers common software design patterns implemented in Python.
 - `command_pattern.py`: Encapsulates a request as a standalone object.
 - `template_method.py`: Skeleton of an algorithm in a base class.
 - `facade_pattern.py`: Simplified interface to a complex set of classes.
+
+## 11_Web_Scraping_Automation
+This folder demonstrates how to interact with the web and automate system tasks.
+
+- `basic_requests.py`: Simulating HTTP GET requests.
+- `bs4_demo.py`: Simulation of HTML parsing using BeautifulSoup.
+- `browser_automation_sim.py`: Concepts of browser-level automation.
+- `os_operations.py`: Navigating the file system and managing processes.
+- `shutil_demo.py`: High-level file operations (copy, move).
+- `env_vars.py`: Managing application environment variables.
+- `subprocess_basics.py`: Spawning and communicating with system processes.
+
+## 12_Data_Handling_Analysis
+This folder covers essential techniques for managing, parsing, and verifying data.
+
+- `csv_basics.py`: Reading and writing tabular CSV data.
+- `json_advanced.py`: Working with complex and nested JSON structures.
+- `sqlite_demo.py`: Using Python's built-in SQL database engine.
+- `logging_basics.py`: Implementing a robust event logging system.
+- `unit_testing_sim.py`: Basics of testing code with the `unittest` framework.
+- `regex_patterns.py`: Using regular expressions for advanced text matching.
+- `datetime_advanced.py`: Advanced date and time manipulation.
