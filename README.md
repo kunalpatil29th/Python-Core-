@@ -133,3 +133,15 @@ This folder covers essential techniques for managing, parsing, and verifying dat
 - `unit_testing_sim.py`: Basics of testing code with the `unittest` framework.
 - `regex_patterns.py`: Using regular expressions for advanced text matching.
 - `datetime_advanced.py`: Advanced date and time manipulation.
+
+## 13_Object_Oriented_Programming
+This folder delves deep into the core concepts of Object-Oriented Programming (OOP) in Python.
+
+- `classes_and_objects.py`: Defining blueprints and creating instances.
+- `inheritance.py`: Reusing code from parent classes.
+- `polymorphism.py`: Using a single interface for entities of different types.
+- `encapsulation.py`: Restricting access to methods and variables.
+- `abstraction.py`: Hiding complex implementation details using abstract base classes.
+- `class_and_static_methods.py`: Understanding `@classmethod` and `@staticmethod`.
+- `magic_dunder_methods.py`: Customizing built-in behaviors with methods like `__str__` and `__len__`.
+- `multiple_inheritance.py`: Inheriting from multiple parent classes.
