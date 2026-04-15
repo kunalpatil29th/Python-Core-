@@ -145,3 +145,33 @@ This folder delves deep into the core concepts of Object-Oriented Programming (O
 - `class_and_static_methods.py`: Understanding `@classmethod` and `@staticmethod`.
 - `magic_dunder_methods.py`: Customizing built-in behaviors with methods like `__str__` and `__len__`.
 - `multiple_inheritance.py`: Inheriting from multiple parent classes.
+
+## 14_System_Design_Architecture
+This folder explores software architecture patterns and system design principles.
+
+- `mvc_pattern.py`: Model-View-Controller architecture.
+- `layer_architecture.py`: Horizontal layering of application components.
+- `microservices_sim.py`: Loose coupling and independent services.
+- `pub_sub_system.py`: Messaging pattern for asynchronous communication.
+- `caching_strategy.py`: Improving performance with temporary data storage.
+- `rate_limiting.py`: Controlling request flow to prevent abuse.
+- `load_balancer_sim.py`: Distributing traffic across multiple servers.
+- `database_sharding_sim.py`: Partitioning data across multiple database instances.
+
+## 15_Security_Best_Practices
+This folder focuses on writing secure Python applications and preventing common vulnerabilities.
+
+- `password_hashing.py`: Securely storing user credentials with salts.
+- `jwt_token_sim.py`: Token-based authentication and claim representation.
+- `sql_injection_prevention.py`: Using parameterized queries to secure databases.
+- `input_validation.py`: Ensuring data integrity and correctness.
+- `encryption_decryption.py`: Basic data encoding and decoding techniques.
+- `secure_api_keys.py`: Managing secrets using environment variables.
+- `cors_explanation.py`: Understanding cross-origin resource sharing.
+- `rbac_model.py`: Implementing role-based access control.
+
+## 16_DevOps_CI_CD
+This folder introduces concepts related to modern software deployment and automation.
+
+- `docker_basics_sim.py`: Containerization basics and image building.
+- `github_actions_sim.py`: Automating CI/CD workflows.
