@@ -175,3 +175,31 @@ This folder introduces concepts related to modern software deployment and automa
 
 - `docker_basics_sim.py`: Containerization basics and image building.
 - `github_actions_sim.py`: Automating CI/CD workflows.
+
+## 17_Unit_Testing_Pytest
+This folder covers the fundamentals of writing and running tests in Python using the Pytest framework.
+
+- `test_basic.py`: Simple unit tests and assertions.
+- `test_fixtures.py`: Managing test setup and teardown with fixtures.
+- `test_parameterized.py`: Running tests with multiple data sets.
+- `test_markers.py`: Categorizing and skipping tests.
+- `test_mocking.py`: Isolating code with mock objects.
+- `test_assertions.py`: Using complex assertions for verification.
+- `test_exceptions.py`: Testing error handling and exceptions.
+- `test_conftest_sim.py`: Sharing configuration with `conftest.py`.
+- `test_plugins_sim.py`: Extending Pytest with plugins.
+- `test_coverage_sim.py`: Measuring code execution during tests.
+
+## 18_Cloud_and_Deployment
+This folder introduces concepts for deploying and managing Python applications in the cloud.
+
+- `aws_lambda_sim.py`: Serverless function execution.
+- `s3_bucket_sim.py`: Object storage management.
+- `api_gateway_sim.py`: Routing and managing API requests.
+- `docker_compose_sim.py`: Managing multi-container applications.
+- `kubernetes_basics_sim.py`: Orchestrating container deployments.
+- `serverless_framework_sim.py`: Automating serverless infrastructure.
+- `cloud_watch_logging_sim.py`: Monitoring and logging in the cloud.
+- `terraform_hcl_sim.py`: Infrastructure as Code (IaC) basics.
+- `ec2_instance_management_sim.py`: Managing virtual servers in the cloud.
+- `cloud_security_groups_sim.py`: Implementing network security firewalls.
