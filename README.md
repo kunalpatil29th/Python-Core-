@@ -221,3 +221,31 @@ This folder covers the fundamentals of network communication and socket programm
 - `http_header_analysis.py`: Parsing and analyzing HTTP request/response headers.
 - `port_scanner_sim.py`: Probing hosts for open ports to verify security policies.
 - `ip_address_utils.py`: Utilities for managing and resolving IP addresses and hostnames.
+
+## 21_Backend_Web_Development
+This folder covers the fundamentals and advanced concepts of building web backends with Python.
+
+- `flask_basics.py`: Introduction to the Flask micro-framework.
+- `django_concepts.py`: Understanding the Django "batteries-included" framework.
+- `fast_api_intro.py`: Building high-performance APIs with FastAPI.
+- `rest_api_principles.py`: Core principles of RESTful API design.
+- `graphql_basics.py`: Querying data with GraphQL.
+- `web_sockets_sim.py`: Real-time full-duplex communication simulation.
+- `authentication_jwt.py`: Stateless authentication using JSON Web Tokens.
+- `database_orm_sim.py`: Interacting with databases using Object-Relational Mapping.
+- `middleware_concepts.py`: Processing requests through a middleware chain.
+- `deployment_gunicorn.py`: Running production-grade WSGI servers with Gunicorn.
+
+## 22_Asynchronous_Programming
+This folder explores the powerful world of concurrency and non-blocking I/O in Python.
+
+- `asyncio_basics.py`: Foundations of the `asyncio` library and event loops.
+- `await_keyword.py`: Pausing execution for asynchronous tasks.
+- `concurrent_tasks.py`: Managing multiple coroutines simultaneously.
+- `async_iterators.py`: Iterating over data fetched asynchronously.
+- `async_context_managers.py`: Using `async with` for resource management.
+- `event_loop_sim.py`: Understanding the core mechanism of async execution.
+- `threading_vs_asyncio.py`: Comparing different multitasking models in Python.
+- `multiprocessing_intro.py`: Leveraging multiple CPUs with the `multiprocessing` module.
+- `async_http_requests.py`: High-concurrency network requests with libraries like `aiohttp`.
+- `race_conditions_sim.py`: Understanding and preventing synchronization issues.
