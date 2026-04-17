@@ -203,3 +203,21 @@ This folder introduces concepts for deploying and managing Python applications i
 - `terraform_hcl_sim.py`: Infrastructure as Code (IaC) basics.
 - `ec2_instance_management_sim.py`: Managing virtual servers in the cloud.
 - `cloud_security_groups_sim.py`: Implementing network security firewalls.
+
+## 19_Advanced_Data_Science_Basics
+This folder introduces core concepts and libraries used in data science and machine learning.
+
+- `numpy_basics_sim.py`: Fundamental multi-dimensional array operations.
+- `pandas_dataframe_sim.py`: Data analysis using DataFrame structures.
+- `matplotlib_plot_sim.py`: Creating static and interactive visualizations.
+- `scikit_learn_sim.py`: Basics of predictive data analysis and machine learning models.
+- `data_cleaning_concepts.py`: Techniques for fixing and removing corrupted or duplicate data.
+
+## 20_Network_Programming
+This folder covers the fundamentals of network communication and socket programming in Python.
+
+- `tcp_server_sim.py`: Establishing reliable network conversations via TCP.
+- `udp_socket_sim.py`: Low-latency, connectionless communication via UDP.
+- `http_header_analysis.py`: Parsing and analyzing HTTP request/response headers.
+- `port_scanner_sim.py`: Probing hosts for open ports to verify security policies.
+- `ip_address_utils.py`: Utilities for managing and resolving IP addresses and hostnames.
