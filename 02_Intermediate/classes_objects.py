@@ -5,7 +5,7 @@ Definition: Object-Oriented Programming (OOP) is a paradigm based on the concept
 which can contain data (attributes) and code (methods). A 'class' is a blueprint for objects.
 """
 
-# Defining a class
+//# Defining a class
 class Student:
     def __init__(self, name, age):
         self.name = name
