@@ -4,7 +4,7 @@ Comprehensive Python core repository including data structures, problem-solving,
 ## 01_Basics
 This folder contains fundamental Python concepts with definitions and examples.
 
-- `variables.py`: Variable declaration and scoping.
+- `variables.py`: Variable declaration and scoping
 - `input_output.py`: User input and console output.
 - `comments.py`: Single-line, multi-line, and docstrings.
 - `type_casting.py`: Converting data types.
