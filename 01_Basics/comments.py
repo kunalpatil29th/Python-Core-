@@ -5,7 +5,8 @@ Definition: Comments are non-executable lines of code used to explain what the c
 making it easier for developers to read and understand.
 """
 
-# Single line comment 
+# Single line comment // Single line comment
+
 
 """ 
 Multi-line comment 
