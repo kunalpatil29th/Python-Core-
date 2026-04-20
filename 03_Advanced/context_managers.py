@@ -13,6 +13,6 @@ class SimpleContextManager:
     def __exit__(self, exc_type, exc_value, traceback):
         print("Exiting the context...")
 
-# Using the custom context manager
+
 with SimpleContextManager():
     print("Inside the context block.")
