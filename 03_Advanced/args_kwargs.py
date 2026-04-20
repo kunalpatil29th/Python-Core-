@@ -1,4 +1,4 @@
-# args_kwargs.py
+
 
 """
 Definition: *args and **kwargs allow a function to accept a variable number of arguments. 
