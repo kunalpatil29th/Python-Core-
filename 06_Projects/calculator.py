@@ -1,4 +1,4 @@
-# calculator.py
+# calculator.py calculator  for python
 
 """
 Project: Simple Calculator
