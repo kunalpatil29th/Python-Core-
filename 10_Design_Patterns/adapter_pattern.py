@@ -1,4 +1,4 @@
-# adapter_pattern.py
+# adapter_pattern
 
 
 class OldSystem:
