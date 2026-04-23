@@ -1,8 +1,5 @@
 # adapter_pattern.py
 
-"""
-Definition: The Adapter Pattern allows incompatible interfaces to work together by wrapping an existing class with a new interface.
-"""
 
 class OldSystem:
     def old_method(self):
