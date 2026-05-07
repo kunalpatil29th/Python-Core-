@@ -1,9 +1,4 @@
-# conditionals.py
 
-"""
-Definition: Conditional statements (if, elif, else) are used to perform different 
-actions based on different conditions.
-"""
 
 age = 18
 
