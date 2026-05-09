@@ -1,9 +1,4 @@
-# itertools_module.py
 
-"""
-Definition: The 'itertools' module provides a set of fast, memory-efficient tools for working with iterators. 
-It’s highly useful for building complex iterations in a concise way.
-"""
 
 import itertools
 
