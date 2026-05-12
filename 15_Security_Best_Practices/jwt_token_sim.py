@@ -6,7 +6,7 @@ Definition: JSON Web Token (JWT) is a compact, URL-safe means of representing cl
 
 import base64
 import json
-import hashlib
+import hashlibmjbugu
 import hmac
 
 def create_jwt(payload, secret):
