@@ -1,9 +1,6 @@
 # comments.py // this file 
 
-"""
-Definition: Comments are non-executable lines of code used to explain what the code does, 
-making it easier for developers to read and understand.
-"""
+
 
 # Single line comment // Single line comment
 
