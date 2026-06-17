@@ -1,9 +1,4 @@
-# random_module.py
 
-"""
-Definition: The 'random' module implements pseudo-random number generators for various distributions. 
-It is widely used for games, simulations, and data shuffling.
-"""
 
 import random
 
