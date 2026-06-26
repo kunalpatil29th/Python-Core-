@@ -1,9 +1,5 @@
 # classes_objects.py
 
-"""
-Definition: Object-Oriented Programming (OOP) is a paradigm based on the concept of "objects," 
-which can contain data (attributes) and code (methods). A 'class' is a blueprint for objects.
-"""
 
 //# Defining a class
 class Student:
